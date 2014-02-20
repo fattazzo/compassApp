@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileOS Compass App</string>
+    <string name="about_text">www.MobileOS.it - fattazzo</string>
+    
+    <string name="compass_image_description">Compass image</string>
+    
+    <string-array name="compass_array">
+        <item>compass</item>
+        <item>compass2</item>
+        <item>compass3</item>
+        <item>compass4</item>
+    </string-array>
+    
+
+</resources>
