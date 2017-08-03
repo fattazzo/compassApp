@@ -1,5 +1,5 @@
 ---
-layout: backchatio
+layout: jekyll-theme-slate
 title: BackChat.io Project Documentation
 ---
 
