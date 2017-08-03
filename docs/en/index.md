@@ -1,6 +1,6 @@
 ---
 layout: backchatio
-title: BackChat.io Project Documentation
+title: Index EN
 ---
 
 test
