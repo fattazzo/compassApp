@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BackChat.io Project Documentation
+title: index
 ---
 
 With Formula 1 world you will have all the information you need, results, rankings, updated timetables and comparisons from the season 1950 to the present.
