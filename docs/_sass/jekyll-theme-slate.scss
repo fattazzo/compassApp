@@ -49,7 +49,7 @@ body {
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
-  line-height: 2.5;
+  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -265,6 +265,7 @@ Full-Width Styles
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+  height: 1000px
 }
 
 #forkme_banner {
